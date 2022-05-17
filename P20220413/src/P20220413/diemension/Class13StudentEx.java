@@ -6,7 +6,7 @@ public class Class13StudentEx {
 	public static void main(String[] args) {
 		//학생이름, 점수 => names, scores
 		Student s1 = new Student(); //학생이름, 점수
-		s1.student = "홍길동;"
+		s1.student = "홍길동";
 		s1.score = 80;
 		s1.age = 20;
 		
